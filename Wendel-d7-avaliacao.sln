@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wendel-d7-avaliacao", "Wendel-d7-avaliacao.csproj", "{A9AF4D61-47D7-4479-819A-D19757D91303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AF4D61-47D7-4479-819A-D19757D91303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AF4D61-47D7-4479-819A-D19757D91303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AF4D61-47D7-4479-819A-D19757D91303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AF4D61-47D7-4479-819A-D19757D91303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8E7AEE-F979-431E-8BA3-E2078EE34F8B}
+	EndGlobalSection
+EndGlobal
